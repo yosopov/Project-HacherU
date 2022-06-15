@@ -1,0 +1,340 @@
+[
+        {
+            "productName":"Containers For Sweets 20pcs",
+            "productPrice":12.90,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/1110718.jpg?v=1",
+            "attribution":"housewares",
+            "weight":false
+        },
+        {
+            "productName":"Shmai Soup Bowl Plates 25Pcs",
+            "productPrice":7.90,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/983070.jpg?v=1",
+            "attribution":"housewares",
+            "weight":false
+        },
+        {
+            "productName":"SMALL PLATES 7",
+            "productPrice":9.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/803225/832637/large.jpg",
+            "attribution":"housewares",
+            "weight":false
+        },
+        {
+            "productName":"CARDBOARD CUPS",
+            "productPrice":10.00,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/2505924/961237/x-large.jpg",
+            "attribution":"housewares",
+            "weight":false
+        },
+        {
+            "productName":"Huggies Freedom Diapers Size 4+ 42 pcs",
+            "productPrice":44.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/332177/817318/large.jpg",
+            "attribution":"PharmAndBabies",
+            "weight":false 
+        },
+        {
+            "productName":"Huggies Dry Night Diapers Size 3",
+            "productPrice":42.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/332352/817314/large.jpg",
+            "attribution":"PharmAndBabies",
+            "weight":false
+        },
+        {
+            "productName":"Similac Advance 3 700g",
+            "productPrice":84.90,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/2203266.jpg?v=4",
+            "attribution":"PharmAndBabies",
+            "weight":false
+        },
+        {
+            "productName":"Colgate Optic White Instant Toothpaste 7",
+            "productPrice":29.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/197402/962703/large.jpg",
+            "attribution":"Cleanliness",
+            "weight":false
+        },
+        {
+            "productName":"Wege Of Hanover Bucket Of Brokes Pretzels",
+            "productPrice":27.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/13468/716248/large.jpg",
+            "attribution":"Cleanliness",
+            "weight":false
+        },
+        {
+            "productName":"sano garbage bags with string 25Pcs",
+            "productPrice":22.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/2982437/916206/x-large.jpg",
+            "attribution":"Cleanliness",
+            "weight":false
+        },
+        {
+            "productName":"Domestos Mega Pack Ocean 3 pcs",
+            "productPrice":16.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/1951849/2308900/large.jpg",
+            "attribution":"Cleanliness",
+            "weight":false
+        },
+        {
+            "productName":"Softener Purple",
+            "productPrice":18.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/58928/2664031/large.jpg",
+            "attribution":"Cleanliness",
+            "weight":false
+        },
+        {
+            "productName":"Chocolate B/S",
+            "productPrice":5.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/4726/915656/large.jpg",
+            "attribution":"SweetsAndSnacks",
+            "weight":false
+        },
+        {
+            "productName":"Milka Chocolate Extra Cacao",
+            "productPrice":6.00,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/9602/1413376/x-large.jpg",
+            "attribution":"SweetsAndSnacks",
+            "weight":false
+        },
+        {
+            "productName":"Bamba 10 ct",
+            "productPrice":16.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/33732/722748/large.jpg",
+            "attribution":"SweetsAndSnacks",
+            "weight":false
+        },
+        {
+            "productName":"Eight Bissley Grill Taste 200g",
+            "productPrice":8.50,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/3725/716193/large.jpg",
+            "attribution":"SweetsAndSnacks",
+            "weight":false
+        },
+        {
+            "productName":"GO protein Peanut Butter flavored snack, 60 grams",
+            "productPrice":13.00,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/4178483/2039949/x-large.jpg",
+            "attribution":"HealthAvdSpecialtyDiets",
+            "weight":false
+        },
+        {
+            "productName":"Osem Crackers No Glotin 200 g",
+            "productPrice":8.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/1442984/722447/large.jpg",
+            "attribution":"HealthAvdSpecialtyDiets",
+            "weight":false
+        },
+        {
+            "productName":"Chocolate Wafers Sugar Free",
+            "productPrice":8.90,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/20938.jpg?v=9",
+            "attribution":"HealthAvdSpecialtyDiets",
+            "weight":false
+        },
+        {
+            "productName":"Schweps soda 500 ml six",
+            "productPrice":14.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/678455/976384/large.jpg",
+            "attribution":"BeveragesAndWine",
+            "weight":false
+        },
+        {
+            "productName":"Coca Cola Israeli 1.5 L (P)",
+            "productPrice":9.50,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/4453839/2341972/large.jpg",
+            "attribution":"BeveragesAndWine",
+            "weight":false
+        },
+        {
+            "productName":"Binyamina Colony Cabernet Sauvignon Wine",
+            "productPrice":29.90,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/1988716.jpg?v=1",
+            "attribution":"BeveragesAndWine",
+            "weight":false
+        },
+        {
+            "productName":"Tiroche 1 liter Carmel",
+            "productPrice":18.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/3055331/933713/large.jpg",
+            "attribution":"BeveragesAndWine",
+            "weight":false
+        },
+        {
+            "productName":"Ma'danot Pizza W. Olives 550g",
+            "productPrice":21.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/11381/914353/large.jpg",
+            "attribution":"Frozen",
+            "weight":false
+        },
+        {
+            "productName":"Sunfrost Frozen Forest fruits 400g",
+            "productPrice":19.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/1406298/2106415/large.jpg",
+            "attribution":"Frozen",
+            "weight":false
+        },
+        {
+            "productName":"Soglowek Corn Schnitzel 750g",
+            "productPrice":29.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/14858/1297620/x-large.jpg",
+            "attribution":"Frozen",
+            "weight":false
+        },
+        {
+            "productName":"Pruscotto Beef Gluten Free Slice Thin Tirat Zvi 10",
+            "productPrice":28.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/241075/1978113/large.jpg",
+            "attribution":"DeliAndSalads",
+            "weight":false
+        },
+        {
+            "productName":"Strauss Spicy Eggplant Salad 400g",
+            "productPrice":12.90,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/233857.jpg?v=3",
+            "attribution":"DeliAndSalads",
+            "weight":false
+        },
+        {
+            "productName":"Mashani Anba Salad 300 g",
+            "productPrice":15.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/33302/2096628/large.jpg",
+            "attribution":"DeliAndSalads",
+            "weight":false
+        },
+        {
+            "productName":"Pri Haglil Homos 560g",
+            "productPrice":15.90,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/13051.jpg?v=10",
+            "attribution":"Grocery",
+            "weight":false
+        },
+        {
+            "productName":"Ahava Halva Snack 12 pieces",
+            "productPrice":15.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/21997/1586137/large.jpg",
+            "attribution":"Grocery",
+            "weight":false
+        },
+        {
+            "productName":"Sugat Giant Chickpeas",
+            "productPrice":7.90,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/8743.jpg?v=1",
+            "attribution":"Grocery",
+            "weight":false
+        },
+        {
+            "productName":"Pillsbury Chocolate Balls 550g",
+            "productPrice":17.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/5858/1462362/large.jpg",
+            "attribution":"Grocery",
+            "weight":false
+        },
+        {
+            "productName":"Tomer Apple Sauce 700g",
+            "productPrice":11.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/47395/816402/large.jpg",
+            "attribution":"Grocery",
+            "weight":false
+        },
+        {
+            "productName":"Sweet'n Low Gold 50PK",
+            "productPrice":9.90,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/42598.jpg?v=9",
+            "attribution":"Grocery",
+            "weight":false
+        },
+        {
+            "productName":"Champions Cornflake 750Gr",
+            "productPrice":18.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/3048758/2601720/large.jpg",
+            "attribution":"CerealAndBreakfast",
+            "weight":false
+        },
+        {
+            "productName":"Mandal Granola With Chocolate 400g",
+            "productPrice":17.90,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/1845775.jpg?v=1",
+            "attribution":"CerealAndBreakfast",
+            "weight":false
+        },
+        {
+            "productName":"Cereal Chocolate Snack",
+            "productPrice":10.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/3131/1146522/large.jpg",
+            "attribution":"CerealAndBreakfast",
+            "weight":false
+        },
+        {
+            "productName":"Packed frozen chicken legs",
+            "productPrice":32.00,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/2338732.jpg?v=2",
+            "attribution":"Meat",
+            "weight":true
+        },
+        {
+            "productName":"Kishke for net khomin",
+            "productPrice":16.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/5346/830033/large.jpg",
+            "attribution":"Meat",
+            "weight":true
+        },
+        {
+            "productName":"Cereal Chocolate Snack",
+            "productPrice":10.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/3131/1146522/large.jpg",
+            "attribution":"Meat",
+            "weight":false
+        },
+        {
+            "productName":"Berman Kall Bread 500 g",
+            "productPrice":17.90,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/7867/2261403/large.jpg",
+            "attribution":"Bakery",
+            "weight":false
+        },
+        {
+            "productName":"Eggs Large Size 12",
+            "productPrice":11.45,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/31163.jpg?v=4",
+            "attribution":"DairyAndEggs",
+            "weight":false
+        },
+        {
+            "productName":"Tara Milk Carton 3%",
+            "productPrice":5.75,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/11829/3414737/large.jpg",
+            "attribution":"DairyAndEggs",
+            "weight":false
+        },
+        {
+            "productName":"Carrot",
+            "productPrice":6.90,
+            "productImage":"https://storage.googleapis.com/sp-public/retailerItems/1193/large/3319268.jpg?v=1",
+            "attribution":"FreshProduce",
+            "weight":true
+        },
+        {
+            "productName":"Cucumbers",
+            "productPrice":5.90 ,
+            "productImage":"https://storage.googleapis.com/sp-public/product-images/global/3100472/1431115/large.jpg",
+            "attribution":"FreshProduce",
+            "weight":true
+        },
+        {
+            "productName":"Date - Majool (Organic)",
+            "productPrice":5.75,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/800085.jpg?v=2",
+            "attribution":"FreshProduce",
+            "weight":true
+        },
+        {
+            "productName":"Lettuce Heart",
+            "productPrice":7.00,
+            "productImage":"https://storage.googleapis.com/sp-public/items/large/724784.jpg?v=1",
+            "attribution":"FreshProduce",
+            "weight":true 
+        }
+        
+    
+]
