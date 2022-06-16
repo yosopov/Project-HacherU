@@ -30,7 +30,7 @@ const Card = ({ card,addCard,deleteProduct,order}) => {
 
   return (
     <div  className="col-sm-12 col-md-6 col-xl-3 mt-3">
-      <div style={{height:"100%"}} className="card border border-dark">
+      <div style={{height:"100%"}} className="card border border-dark h-100">
         <img style={{height:"300px"}}
           className="p-2 m-auto img-thumbnail"
           src={card.productImage}
