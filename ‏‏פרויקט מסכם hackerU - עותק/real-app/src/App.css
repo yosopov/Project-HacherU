@@ -30,6 +30,9 @@ footer{
   padding-bottom:80vh;
   block-size: auto
 }
+.menu{
+  display: none !important;
+}
 
 .style_menu_user {
   height: 100%;
