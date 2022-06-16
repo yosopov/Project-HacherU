@@ -30,7 +30,7 @@ const NavbarSide = ({user,cards,changeNavigation,searchByName ,searchInput,setSe
               <input value={searchInput} onChange={(e)=>{getValueAndSearchProducts(e)}} className="form-control  input-search" placeholder="Search"/>
               <button onClick={()=>{searchByName(searchInput)}} className="btn  my-2 my-sm-0 search "><i className="bi bi-search"></i></button>
             </div>
-              <span className="fst-italic pe-5">Hello {user.name}</span>
+              <span className="fst-italic">Hello {user.name}</span>
 
                 <NavLink to="/myProducts" onClick={()=>changeNavigation("myProducts")} className="nav-link text-light d-flex">
                             <i className="bi bi-cart text-danger"></i>
