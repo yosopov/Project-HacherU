@@ -2,33 +2,6 @@ html{
   background-color: #198754;
 }
 
-@media (max-width: 1200px) {
-  .image-icons{
-    height: 16px;
-  }
-  .menu{
-    display: none ;
-  }
-};
-
-@media (min-width: 1200px){
-  .image-icons{
-    display: none;
-  }
-  .menu{
-    display: block ; 
-    padding: 0 4px 0 4px;
-  };
-}; 
-
-
-@media (max-width: 600px) {
-  .input-search{
-    margin-top: 10px;
-  }
-};
-
-
 .App {
   text-align: center;
   width: 100%;
@@ -273,3 +246,30 @@ a{
 };
 
 /*end loaded */
+
+
+@media (max-width: 1200px) {
+  .image-icons{
+    height: 16px
+  }
+  .menu{
+    display: none 
+  }
+};
+
+@media (min-width: 1200px){
+  .image-icons{
+    display: none;
+  }
+  .menu{
+    display: block ; 
+    padding: 0 4px 0 4px;
+  }
+}
+
+
+@media (max-width: 600px) {
+  .input-search{
+    margin-top: 10px;
+  }
+}
