@@ -14,7 +14,6 @@ const protectedRoute = ({children,user,spamUrl,accessMnger})=>{
     };
     
     if (accessMnger) {
-        debugger
         if (user.access === 'manager') {
             return children  ;
         };
