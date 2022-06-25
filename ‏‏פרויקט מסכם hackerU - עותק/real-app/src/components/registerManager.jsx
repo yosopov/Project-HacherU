@@ -10,6 +10,7 @@ class RegisterManager extends Form{
       name: "",
       email: "",
       password: "",
+      phone:"",
     },
   };
 
@@ -19,6 +20,7 @@ class RegisterManager extends Form{
       .email({ tlds: { allow: false } }),
     password: Joi.string().required().min(6),
     name: Joi.string().required().min(2),
+    phone: Joi.string().min(9).max(10).required().regex(/^0[2-9]\d{7,8}$/),
   };
 
   async doSubmit() {
@@ -55,6 +57,7 @@ class RegisterManager extends Form{
             type: "password",
           })}
           {this.renderInput({ name: "name", label: "Name" })}
+          {this.renderInput({ name: "phone", label: "phone" })}
           <div className="my-2">{this.renderButton("Sign Up")}</div>
         </form>
       </div>
