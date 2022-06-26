@@ -104,7 +104,6 @@ import {toast} from "react-toastify";
                             totalPrice = totalPrice+ Number(cards.totalPrice)
                           return(
                           <Card key={cards._id} card={cards}
-                            addCard={this.addCard}
                             deleteProduct={this.deleteProduct}/>
                           )})}
                         <h4>price:{totalPrice.toFixed(2)}</h4> 
