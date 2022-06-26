@@ -1,22 +1,16 @@
 import React from "react";
 import { useState } from "react";
 
-const Card = ({ card,addCard,deleteProduct,order,addOrRemoveOne}) => {
+const Card = ({ card,addCard,deleteProduct,order}) => {
 
   const [numberProducts,SetNumberProducts] = useState(card.amount?(card.amount):(1));
 
     const checkProducts=(e)=>{
     if (e.currentTarget.value < numberProducts) {
       const count =numberProducts-1
-      if (addOrRemoveOne) {
-        addOrRemoveOne(card._id,count)
-      }
       return SetNumberProducts(count)
     }
     const count =numberProducts+1;
-    if (addOrRemoveOne) {
-      addOrRemoveOne(card._id,count)
-    }
     SetNumberProducts(count)
   };
 
