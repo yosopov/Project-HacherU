@@ -49,7 +49,7 @@ const Card = ({ card,addCard,deleteProduct,order,addOrRemoveOne}) => {
                <span className="d-block">
                       {!order?(
                         <>
-                          Quantity:<input style={{width: "40px"}} className="m-1 border-0"  type="number" name={card._id} onChange={(e)=>{checkProducts(e)}} value={numberProducts} min={1} max={99}/>
+                          Quantity:<input disabled style={{width: "40px"}} className="m-1 border-0"   type="number" name={card._id}  value={numberProducts} min={1} max={99}/>
                           <button onClick={()=>{deleteProduct(card._id)}} className="btn btn-outline-danger"><i className="bi bi-trash3"></i></button>
                         </>
                       ):(
