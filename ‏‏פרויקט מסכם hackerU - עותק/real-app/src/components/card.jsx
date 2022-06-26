@@ -6,7 +6,6 @@ const Card = ({ card,addCard,deleteProduct,order}) => {
   const [numberProducts,SetNumberProducts] = useState(card.amount?(card.amount):(1));
 
   const checkProducts=(e)=>{
-    debugger
     if (e.currentTarget.value < numberProducts) {
       const count =numberProducts-1
       return SetNumberProducts(count)
