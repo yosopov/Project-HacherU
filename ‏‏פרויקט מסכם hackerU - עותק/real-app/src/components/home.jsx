@@ -39,7 +39,6 @@ class Home extends React.Component {
         this.setState({ cards: false })
       }
       if (this.state.cards === prevState.cards   && productByName === '') {
-        debugger
          const { data } = await cardService.getCards();
          if (data.length > 0) return this.setState({ cards: data });
       }
